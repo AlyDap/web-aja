@@ -4,3 +4,5 @@ WEB AJA
 - Bisa diakses semua orang
 - Lihat template di web
 - Apapun
+- Ini Branch untuk baru
+- Harusnya ini ada di branch
