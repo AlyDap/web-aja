@@ -2,5 +2,5 @@ WEB AJA
 - Coba untuk membuat web
 - Dari HTML, CSS, JS, dll
 - Bisa diakses semua orang
-- membuat animasi dari css atau apalah
 - Lihat template di web
+- Apapun
